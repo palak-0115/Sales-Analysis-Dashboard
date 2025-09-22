@@ -17,7 +17,7 @@ This is Ferns and Retals Sales Analysis that specifies in sending gifts for vari
 - Revenue comparisons between occasions.
 - Product popularity by occasion.
 
-- Dashboard interaction to <a href="">View Dashboard</a>
+- Dashboard interaction to <a href="https://github.com/palak-0115/Sales-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -26,3 +26,5 @@ This is Ferns and Retals Sales Analysis that specifies in sending gifts for vari
 - Merge all pivit tables in one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+<img width="1703" height="854" alt="Dashboard" src="https://github.com/user-attachments/assets/8156ed41-2fcd-4242-b34b-07d1ab40daf0" />
+
