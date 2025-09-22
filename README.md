@@ -1,2 +1,3 @@
 # Sales-Analysis-Dashboard
-This Sales Analysis Dashboard provides a comprehensive overview of the business performance in terms of orders, revenue, customer behavior, and product/occasion-based insights. The analysis enables data-driven decision-making by identifying revenue drivers, customer spending patterns, and operational performance. 
+## Project Objective
+This is Ferns and Retals Sales Analysis that specifies in sending gifts for various occasions like Diwali, Birthday, Anniversary, Holi and many more. This is a type of report so that the data should be understood more clearly.
